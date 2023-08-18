@@ -1,0 +1,57 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    background-color:#393E46;
+}
+.container{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: 8rem;
+    text-shadow: 5px 0 #232931;
+    font-family: 'Lobster', cursive;
+    color: #4ECCA3;
+}
+button{
+    font-size: 3rem ;
+    padding: 10px 20px;
+    letter-spacing:5px;
+    border: 0PX solid;
+    outline: 0;
+    background: #4ECCA3;
+    border-radius:20px;
+    text-align: center;
+}
+ .game{
+    display: flex;
+    margin-top:0px ;
+    justify-content: center;
+}
+.left{
+    margin: 0 50px;
+}
+.left h2{
+    font-size:3rem ;
+    color: aqua;
+}
+.left p{
+    font-size:5rem ;
+    color: aqua;
+}
+.right{
+    margin: 0 50px;
+}
+.right h2{
+    font-size:3rem ;
+    color: aqua;
+}
+.right p{
+    font-size:5rem ;
+    color: aqua;
+}
+.btn1{
+text-align: center;
+position: relative;
+top: 370px;
+}
